@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Tools.DiskPurger": {
+      "commandName": "Project"
+    }
+  }
+}
